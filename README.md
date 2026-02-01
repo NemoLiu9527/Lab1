@@ -1,2 +1,3 @@
 # Lab1
-Purdue ECE 569 Lab
+Name: Heming Liu
+Email: Liu2597@purdue.edu
